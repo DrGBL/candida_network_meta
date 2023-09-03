@@ -1,0 +1,27 @@
+Study	Drugs	Classes	N	Outcome	Mortality	Candidemia	OutcomeCandidemia
+Kuse 2007	Micafungin	Echinocandin	264	183	106	179	162
+Kuse 2007	LAmphoB	Amphotericin	267	172	108	173	155
+Kullberg 2005	Voriconazole	Azole	283	101	88	248	101
+Kullberg 2005	DAmphoB	Amphotericin	139	50	51	122	50
+Reboli 2007	Anidulafungin	Echinocandin	132	96	29	116	88
+Reboli 2007	Fluconazole	Azole	129	71	37	103	63
+Pappas 2007	Micafungin	Echinocandin	402	288	125	331	264
+Pappas 2007	Caspofungin	Echinocandin	193	136	51	161	123
+Kullberg 2018	Isavuconazole	Azole	221	120	61	170	110
+Kullberg 2018	Caspofungin	Echinocandin	219	143	60	163	118
+Rex 1994	Fluconazole	Azole	119	72	34	113	72
+Rex 1994	DAmphoB	Amphotericin	118	81	41	111	81
+Mora-Duarte 2002	Caspofungin	Echinocandin	114	80	39	90	65
+Mora-Duarte 2002	DAmphoB	Amphotericin	125	71	38	91	57
+Phillips 1997	Fluconazole	Azole	53	25	23	50	25
+Phillips 1997	DAmphoB	Amphotericin	53	31	23	53	31
+Rex 2003	Fluconazole	Azole	117	61	42	107	61
+Rex 2003	DAmphoB	Amphotericin	119	77	45	112	77
+Anaissie 1996	DAmphoB	Amphotericin	67	44	9	24	15
+Anaissie 1996	Fluconazole	Azole	75	48	8	29	20
+Abele-Horn 1996	Fluconazole	Azole	36	20	13	17	10
+Abele-Horn 1996	DAmphoB	Amphotericin	36	22	14	18	11
+Kujath 1993	Fluconazole	Azole	20	12	6		
+Kujath 1993	DAmphoB	Amphotericin	20	14	5		
+Thompson III 2020	Caspofungin	Echinocandin	69	41	8	48	31
+Thompson III 2020	Rezafungin	Echinocandin	138	81	14	93	60
