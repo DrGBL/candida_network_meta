@@ -1,7 +1,6 @@
 library("netmeta")
 library("gemtc")
 library(tidyverse)
-setwd("~/Microbiologie/old_code/")
 
 data<-read.delim("DataCandida.txt")
 dataClasses<-subset(data, !(Study %in% c("Pappas 2007", "Thompson III 2020")))
